@@ -1,0 +1,6 @@
+{
+  "name": "RunTracker Sheets",
+  "description": "Aplicación web móvil deportiva para registrar entrenamientos, calcular ritmo en tiempo real, analizar sesiones con IA y enviarlas directamente a Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
